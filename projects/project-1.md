@@ -1,37 +1,22 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/hero-feto
+image: images/gota_gota-banner.png
+title: Gota Gota
+permalink: projects/gota-gota
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
   - Unity
   - C#
-summary: Hero feto.
+summary: O jogo Gota Gota tem como objetivo apresentar de forma lúdica a importância da economia da água para um futuro sustentável.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-</div>
+<img class="ui image" src="{{ site.baseurl }}/images/gota_gota-header.png">
 
-Jogo hero feto
+Você controla a personagem Lili que precisa coletar a água da chuva e levar até a caixa d’água. Gota Gota é um jogo de aventura de estilo 2D Pixel que desenvolvi usando referencias de jogos como [Game Watch Gallery 4 - Fire (Game Boy Advance)] (https://www.mariowiki.com/Fire_(Game_%26_Watch)) e outro jogo chamado [Drop (Android)] (https://play.google.com/store/apps/details?id=com.jakebarnby.drop.android).
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-Saiba mais no link [Website](http://oxentegames.com.br/hero-feto.html).
+Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeroll.minigame"><i class="fab fa-google-play"></i>Jogar</a>
 
 
 
