@@ -8,11 +8,11 @@
     "website": "https://valdecidanilo.github.io",
     "summary": "Formado em Jogos Digitais pela Unisãomiguel de Pernambuco, tenho 6 anos de experiência na plataforma Unity.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Paulista",
-      "countryCode": "BR",
-      "region": "Pernambuco"
+    "address": "",
+    "postalCode": "",
+    "city": "Paulista",
+    "countryCode": "BR",
+    "region": "Pernambuco"
     },
     "profiles": [
       {
@@ -46,29 +46,30 @@
         "Game Maker Std.",
         "Unreal Engine"
       ]
-    },
+    }
+  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C#",
-        "C++",
-        "Python",
-        "Java",
-        "Javascript"
+      "C#",
+      "C++",
+      "Python",
+      "Java",
+      "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Windows",
-        "Android",
-        "iOS",
-        "Linux",
-        "Git/GitHub"
+      "MacOS",
+      "Windows",
+      "Android",
+      "iOS",
+      "Linux",
+      "Git/GitHub"
       ]
     }
   ],
@@ -105,8 +106,8 @@
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Criar Jogos com foco Mobile educativos, com impactos sociais.",
-        "Fazer alterações e atualizações para todos os jogos."
+      "Criar Jogos com foco Mobile educativos, com impactos sociais.",
+      "Fazer alterações e atualizações para todos os jogos."
       ]
     }
   ],
@@ -121,14 +122,16 @@
       "highlights": [
         "Criar Jogos/Aplicativos Digitais com impactos sociais."
       ]
-    },
+    }
+  ],
   "awards": [
     {
       "title": "Bolsa 100% Unisãomiguel",
       "date": "2016-2018",
       "awarder": "Pernambuco-Recife",
       "summary": "Bolsa de estudo concedida pela Unisãomiguel."
-    },
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
