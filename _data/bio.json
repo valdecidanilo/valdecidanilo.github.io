@@ -1,61 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Valdeci Danilo",
+    "label": "Programmer",
+    "picture": "https://techfolios.github.io/template/images/my_picture.png",
+    "email": "valdecidanilo@live.com",
+    "phone": "81-987909343",
+    "website": "https://valdecidanilo.github.io",
+    "summary": "Formado em Jogos Digitais pela Unisãomiguel de Pernambuco, tenho 6 anos de experiência na plataforma Unity.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Paulista",
+      "countryCode": "BR",
+      "region": "Pernambuco"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "valdecidanilo",
+        "url": "http://github.com/valdecidanilo"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "valdeci-danilo",
+        "url": "https://www.linkedin.com/in/valdeci-danilo/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ValdeciDaniloVD",
+        "url": "https://twitter.com/ValdeciDaniloVD"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "valdecidanilo",
+        "url": "https://www.instagram.com/valdecidanilo/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Engines",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unity",
+        "Construct 2/3",
+        "Game Maker Std.",
+        "Unreal Engine"
       ]
     },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -63,6 +54,7 @@
       "keywords": [
         "C",
         "C++",
+        "Python",
         "Java",
         "Javascript",
         "Assembly",
@@ -74,19 +66,20 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Android",
+        "iOS",
+        "Linux",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "UniSãoMiguel",
+      "area": "Jogos Digitais (expected Spring, 2016)",
+      "studyType": "Presencial",
+      "startDate": "14/03/2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,9 +88,9 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
+      "company": "OxenteGames",
+      "position": "Developer",
+      "website": "https://oxentegames.com.br/",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
