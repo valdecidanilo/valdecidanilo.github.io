@@ -4,7 +4,7 @@
     "label": "Programmer",
     "picture": "https://valdecidanilo.github.io/images/my_picture.jpg",
     "email": "valdecidanilo@live.com",
-    "phone": "81-987909343",
+    "phone": "(81) 98790-9343",
     "website": "https://valdecidanilo.github.io",
     "summary": "Formado em Jogos Digitais pela Unisãomiguel de Pernambuco, tenho 6 anos de experiência na plataforma Unity.",
     "location": {
@@ -39,37 +39,32 @@
   },
   "interests": [
     {
-      "name": "Engines",
+      "name": "",
       "keywords": [
         "Unity",
         "Construct 2/3",
-        "Game Maker Std.",
-        "Unreal Engine"
+        "Game Maker Std",
+        "Unreal Engine",
+        "Pixel Art",
+        "2D/3D"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Línguagens",
+      "level": "5",
       "keywords": [
       "C#",
-      "C++",
-      "Python",
-      "Java",
-      "Javascript"
+      "PHP"
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
+      "name": "Ferramentas",
+      "level": "6",
       "keywords": [
-      "MacOS",
       "Windows",
-      "Android",
-      "iOS",
-      "Linux",
-      "Git/GitHub"
+      "Android"
       ]
     }
   ],
@@ -78,7 +73,7 @@
       "institution": "UniSãoMiguel",
       "area": "Jogos Digitais (2016)",
       "studyType": "Presencial",
-      "startDate": "14/03/2016",
+      "startDate": "2016",
       "endDate": "2018",
       "gpa": "",
       "courses": [
@@ -90,9 +85,9 @@
       "company": "OxenteGames",
       "position": "CEO/Developer",
       "website": "https://oxentegames.com.br/",
-      "startDate": "27/05/2018",
+      "startDate": "2017",
       "endDate": "Present",
-      "summary": "Game lab",
+      "summary": "Grupo de desenvolvimento Indie de jogos mobile.",
       "highlights": [
         "Manter, atualizar e supervisionar o site oficial da OxenteGames",
         "Conduzir, projetar e construir projetos da Oxente Games"
@@ -102,8 +97,8 @@
       "company": "Cake Roll Game Lab",
       "position": "Developer",
       "website": "http://www.cakerollgames.com.br/",
-      "startDate": "2018-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2018",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
       "Criar Jogos com foco Mobile educativos, com impactos sociais.",
@@ -116,7 +111,7 @@
       "organization": "Softex Recife",
       "website": "http://www.softexrecife.org.br/",
       "position": "Estágiario",
-      "startDate": "2018-01-01",
+      "startDate": "2018",
       "endDate": "Present",
       "summary": "Desenvolvedor projetos sociais.",
       "highlights": [
@@ -126,7 +121,7 @@
   ],
   "awards": [
     {
-      "title": "Bolsa 100% Unisãomiguel",
+      "title": "Bolsa Unisãomiguel",
       "date": "2016-2018",
       "awarder": "Pernambuco-Recife",
       "summary": "Bolsa de estudo concedida pela Unisãomiguel."
