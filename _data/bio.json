@@ -46,7 +46,8 @@
         "Game Maker Std",
         "Unreal Engine",
         "Pixel Art",
-        "2D/3D"
+        "2D/3D",
+        "Animation"
       ]
     }
   ],
@@ -64,7 +65,8 @@
       "level": "",
       "keywords": [
       "Unity",
-      "Construct 2/3"
+      "Construct 2/3",
+      "Dragon Bones"
       ]
     }
   ],

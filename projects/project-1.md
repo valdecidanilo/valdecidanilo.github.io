@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gota_gota-banner.png
+image: images/gota_gota-square.png
 title: Gota Gota
 permalink: projects/gota-gota
 # All dates must be YYYY-MM-DD format!
@@ -9,6 +9,7 @@ date: 2018-07-01
 labels:
   - Unity
   - C#
+  - Android
 summary: O jogo Gota Gota tem como objetivo apresentar de forma lúdica a importância da economia da água para um futuro sustentável.
 ---
 

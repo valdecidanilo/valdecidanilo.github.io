@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/o_mundo_das_pinturas-square.png
+title: Gota Gota
+permalink: projects/o-mundo-das-pinturas
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-07-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Contruct 2
+  - C#
+  - Android
+summary: O Mundo das Pinturas é um jogo de puzzles de artes, com alguns minigames, quebra-cabeça, caça objetos e arcade.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="{{ site.baseurl }}/images/o_mundo_das_pinturas-header.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Você controla a personagem Lili que precisa coletar a água da chuva e levar até a caixa d’água. Gota Gota é um jogo de aventura de estilo 2D Pixel que desenvolvi usando referencias de jogos como [Game Watch Gallery 4 - Fire (Game Boy Advance)] e outro jogo chamado [Drop (Android)].
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeroll.minigame"><i class="large github icon"></i>Jogar</a>
