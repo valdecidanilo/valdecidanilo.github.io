@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: project-offline
+type: project-offline
 image: images/reteteu-square.png
 title: Reteteu
 permalink: projects/reteteu

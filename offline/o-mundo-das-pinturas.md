@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: project-offline
+type: project-offline
 image: images/o_mundo_das_pinturas-square.png
 title: O Mundo das Pinturas
 permalink: projects/o-mundo-das-pinturas

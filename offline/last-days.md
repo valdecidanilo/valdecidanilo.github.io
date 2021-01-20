@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: project-offline
+type: project-offline
 image: images/last_days-square.png
 title: Last Days
 permalink: projects/last-days

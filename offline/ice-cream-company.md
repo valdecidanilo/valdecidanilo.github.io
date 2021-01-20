@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: project-offline
+type: project-offline
 image: images/ice_cream_company-square.png
 title: Ice Cream Company
 permalink: projects/ice-cream-company
