@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/last_days-square.png
-title: Gota Gota
+title: Last Days
 permalink: projects/last-days
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

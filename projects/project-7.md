@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/reteteu-square.png
-title: Gota Gota
+title: Reteteu
 permalink: projects/reteteu
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

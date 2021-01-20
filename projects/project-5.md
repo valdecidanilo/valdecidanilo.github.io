@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ice_cream_company-square.png
-title: Gota Gota
+title: Ice Cream Company
 permalink: projects/ice-cream-company
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

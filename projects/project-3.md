@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/misterios_do_folclore-square.png
-title: Gota Gota
+title: Mistérios do Folclore
 permalink: projects/misterios-do-folclore
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/clean_planet-square.png
-title: Gota Gota
+title: Clean Planet
 permalink: projects/clean-planet
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01

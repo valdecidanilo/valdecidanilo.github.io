@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/o_mundo_das_pinturas-square.png
-title: Gota Gota
+title: O Mundo das Pinturas
 permalink: projects/o-mundo-das-pinturas
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
