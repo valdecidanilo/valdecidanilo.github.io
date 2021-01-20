@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-offline
 type: project
 image: images/last_days-square.png
 title: Last Days
