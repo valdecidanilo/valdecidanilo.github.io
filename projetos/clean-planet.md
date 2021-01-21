@@ -35,4 +35,8 @@ Com as moedas ganhadas a cada fase, o jogador poderá comprar alguns acessórios
 Além da loja de chapéus, o jogador também poderá personalisar as cores de sua nave, por apenas Zero reais (por pouco tempo, uahhahahahahahaha...)
 
 <hr>
-Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeroll.cleanplanet"><i class="large github icon"></i>Jogar</a>
+Disponível <i class="fas fa-check"></i> (Android):
+<button>
+  <a href="https://play.google.com/store/apps/details?id=com.cakeroll.cleanplanet">
+    <i class="fab fa-google-play"></i>Jogar Agora</a>
+</button>

@@ -33,5 +33,9 @@ A segunda mecânica o jogador controla o Zaguinha, em estilo plataforma 2D, onde
 As moedas do sertão (os prêmios) são obtidos ao longo do jogo, totalmente gratuito. A cada partida, o jogador ganhará um número x de moedas, de acordo com sua performance, podendo utilizá-los para comprar itens, como  armaduras e poderes temporários, no entanto, alguns itens especiais estarão disponíveis para compra com moeda real.
 
 <hr>
-<img class="ui tiny circular image" src="{{ site.baseurl }}/images/as_aventuras_de_zaguinha-playstore.png">
-Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeRoll.asaventurasdezaguinha"><i class="large github icon"></i>Jogar</a>
+<img class="ui centered medium circular image" src="{{ site.baseurl }}/images/as_aventuras_de_zaguinha-playstore.png">
+Disponível <i class="fas fa-check"></i> (Android):
+<button>
+  <a href="https://play.google.com/store/apps/details?id=com.cakeRoll.asaventurasdezaguinha">
+    <i class="fab fa-google-play"></i>Jogar Agora</a>
+</button>

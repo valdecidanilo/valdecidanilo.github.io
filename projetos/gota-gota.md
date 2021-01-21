@@ -27,4 +27,6 @@ A cada fase completada no jogo, a velocidade em que as gotas caem, acelera, assi
 <img class="ui image" src="{{ site.baseurl }}/images/screenshots/gg-2.png">
 Ao final de cada fase concluída, são mostrados exemplos e dicas de como o jogador poderá economizar a água no mundo real.
 <hr>
+
+
 Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeroll.minigame"><i class="large github icon"></i>Jogar</a>
