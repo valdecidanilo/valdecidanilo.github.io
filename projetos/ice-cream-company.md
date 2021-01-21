@@ -18,7 +18,7 @@ summary: Um jogo sobre empreendedorismo, crie seu proprio negócio, venda sorvet
 O jogador é dono de uma sorveteria e tem o objetivo de ser o maior vendedor de sorvete do mundo. 
 <hr>
 
-<div class="ui small rounded images">
+<div class="ui portrait centered rounded images">
   <img class="ui left image" src="{{ site.baseurl }}/images/screenshots/icc-1.png">
   <img class="ui centered image" src="{{ site.baseurl }}/images/screenshots/icc-2.png">
   <img class="ui right image" src="{{ site.baseurl }}/images/screenshots/icc-3.png">
