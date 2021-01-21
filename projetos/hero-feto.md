@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/hero-feto-square.png
+image: images/hero_feto-square.png
 title: Hero Feto
 permalink: projetos/hero-feto
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-14
+date: 2017-12-27
 labels:
   - Unity
   - C#
   - Android
-summary: Hero Feto um jogo polêmico..
+summary: A luta contra o aborto é o tema do jogo Hero Feto.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/hero_feto-header.png">
