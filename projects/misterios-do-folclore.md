@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/misterios_do_folclore-square.png
 title: Mistérios do Folclore
-permalink: projects/misterios-do-folclore
+permalink: projetos/misterios-do-folclore
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-29
 labels:

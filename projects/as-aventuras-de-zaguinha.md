@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/as_aventuras_de_zaguinha-square.png
 title: As Aventuras de Zaguinha 
-permalink: projects/as-aventuras-de-zaguinha
+permalink: projetos/as-aventuras-de-zaguinha
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-14
 labels:

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/clean_planet-square.png
 title: Clean Planet
-permalink: projects/clean-planet
+permalink: projetos/clean-planet
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-22
 labels:

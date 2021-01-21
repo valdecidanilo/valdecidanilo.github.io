@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/gota_gota-square.png
 title: Gota Gota
-permalink: projects/gota-gota
+permalink: projetos/gota-gota
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-14
 labels:
