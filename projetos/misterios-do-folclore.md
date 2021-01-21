@@ -20,4 +20,13 @@ Mistérios do folclore, surgiu a partir da iniciativa do grupo em manter as trad
 Neste jogo, o jogador controla o personagem Arqueólogo, que tem por objetivo recuperar os personagens do folclore com a ajuda de Iara, uma sereia, figura folclórica brasileira.
 O enredo se baseia nesse jovem estudante de arqueologia em uma expedição  comum, onde encontra um portal misterioso em pleno coração da floresta Amazônica, sendo teletransportado para um mundo onde os personagens do folclore se encontram presos, ao serem corrompidos pelos avanços tecnológicos. A personagem Iara encontra o jovem arqueólogo perdido e em troca de levá-lo de volta ao seu mundo, ela pede ajuda para que ele traga de volta seus amigos e encontre a criatura que os corrompeu.
 <hr>
-Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeroll.misteriosfolclore"><i class="large github icon"></i>Jogar</a>
+
+<img class="ui centered medium circular image" src="{{ site.baseurl }}/images/misterios_do_folclore-playstore.png">
+
+<div>
+  Disponível <i class="fas fa-check"></i> (Android):
+  <button>
+    <a href="https://play.google.com/store/apps/details?id=com.cakeroll.misteriosfolclore">
+      <i class="fab fa-google-play"></i> Jogar Agora</a>
+  </button>
+</div>
