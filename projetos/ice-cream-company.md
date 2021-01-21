@@ -18,9 +18,11 @@ summary: Um jogo sobre empreendedorismo, crie seu proprio negócio, venda sorvet
 O jogador é dono de uma sorveteria e tem o objetivo de ser o maior vendedor de sorvete do mundo. 
 <hr>
 
-<img class="ui left image" src="{{ site.baseurl }}/images/screenshots/icc-1.png">
-<img class="ui centered image" src="{{ site.baseurl }}/images/screenshots/icc-2.png">
-<img class="ui right image" src="{{ site.baseurl }}/images/screenshots/icc-3.png">
+<div class="ui medium rounded images">
+  <img class="ui left image" src="{{ site.baseurl }}/images/screenshots/icc-1.png">
+  <img class="ui centered image" src="{{ site.baseurl }}/images/screenshots/icc-2.png">
+  <img class="ui right image" src="{{ site.baseurl }}/images/screenshots/icc-3.png">
+</div>
 
 O jogo "Ice Cream Company" tem uma mecânica Idle e pegou referência de um jogo web chamado [Coffe Shop](https://www.coolmathgames.com/0-coffee-shop), o objetivo do ice Cream Company é que o jogador tenha uma visão empreendedora e crie uma empresa de sucesso administrando suas econômias. O jogador tambem poderá customizar o nome da sua empresa e o nome do seu personagem.
 <hr>
