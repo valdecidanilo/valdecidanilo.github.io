@@ -37,6 +37,8 @@ Além da loja de chapéus, o jogador também poderá personalisar as cores de su
 
 <img class="ui centered medium circular image" src="{{ site.baseurl }}/images/clean_planet-playstore.png">
 
+<hr>
+
 <div>
   Disponível <i class="fas fa-check"></i> (Android):
   <button>
@@ -44,3 +46,5 @@ Além da loja de chapéus, o jogador também poderá personalisar as cores de su
       <i class="fab fa-google-play"></i> Jogar Agora</a>
   </button>
 </div>
+
+<hr>

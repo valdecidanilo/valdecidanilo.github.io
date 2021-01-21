@@ -35,6 +35,8 @@ As moedas do sertão (os prêmios) são obtidos ao longo do jogo, totalmente gra
 
 <img class="ui centered medium circular image" src="{{ site.baseurl }}/images/as_aventuras_de_zaguinha-playstore.png">
 
+<hr>
+
 <div>
   Disponível <i class="fas fa-check"></i> (Android):
   <button>
@@ -42,3 +44,5 @@ As moedas do sertão (os prêmios) são obtidos ao longo do jogo, totalmente gra
       <i class="fab fa-google-play"></i> Jogar Agora</a>
   </button>
 </div>
+
+<hr>

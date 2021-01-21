@@ -32,6 +32,8 @@ Ao final de cada fase concluída, são mostrados exemplos e dicas de como o joga
 
 <img class="ui centered medium circular image" src="{{ site.baseurl }}/images/gota_gota-playstore.png">
 
+<hr>
+
 <div>
   Disponível <i class="fas fa-check"></i> (Android):
   <button>
@@ -39,3 +41,5 @@ Ao final de cada fase concluída, são mostrados exemplos e dicas de como o joga
       <i class="fab fa-google-play"></i> Jogar Agora</a>
   </button>
 </div>
+
+<hr>

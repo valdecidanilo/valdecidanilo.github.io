@@ -22,6 +22,7 @@ O enredo se baseia nesse jovem estudante de arqueologia em uma expedição  comu
 <hr>
 
 <img class="ui centered medium circular image" src="{{ site.baseurl }}/images/misterios_do_folclore-playstore.png">
+<hr>
 
 <div>
   Disponível <i class="fas fa-check"></i> (Android):
@@ -30,3 +31,5 @@ O enredo se baseia nesse jovem estudante de arqueologia em uma expedição  comu
       <i class="fab fa-google-play"></i> Jogar Agora</a>
   </button>
 </div>
+
+<hr>
