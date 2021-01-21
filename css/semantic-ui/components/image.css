@@ -236,6 +236,23 @@ img.ui.bordered.image {
   height: auto;
   font-size: 0.92857143rem;
 }
+
+.ui.smaller.images .image,
+.ui.smaller.images img,
+.ui.smaller.images svg,
+.ui.smaller.image {
+  width: 180px;
+  height: auto;
+  font-size: 0.92857143rem;
+}
+.ui.portrait.images .image,
+.ui.portrait.images img,
+.ui.portrait.images svg,
+.ui.portrait.image {
+  width: 215px;
+  height: auto;
+  font-size: 0.92857143rem;
+}
 .ui.medium.images .image,
 .ui.medium.images img,
 .ui.medium.images svg,
