@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ice_cream_company-square.png
 title: Ice Cream Company
-permalink: projects/ice-cream-company
+permalink: projetos/ice-cream-company
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-21
 labels:
@@ -36,7 +36,7 @@ O jogador poderá comprar seus ingredientes, e ajustar a receita ao seu favor an
 <div class="ui portrait centered rounded images">
   <img class="ui left image" src="{{ site.baseurl }}/images/screenshots/icc-7.png">
   <img class="ui centered image" src="{{ site.baseurl }}/images/screenshots/icc-8.png">
-  <img class="ui right image" src="{{ site.baseurl }}/images/screenshots/icc-4.png">
+  <img class="ui right image" src="{{ site.baseurl }}/images/screenshots/icc-9.png">
 </div>
 Com os lucros o jogador poderá customizar o seu personagem e o seu carrinho de sorvete, os carros terá algumas habilidades para chamar atenção do cliente, facilitando as compras e motivando eles.
 <hr>
