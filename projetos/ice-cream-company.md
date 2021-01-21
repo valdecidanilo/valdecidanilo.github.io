@@ -22,6 +22,6 @@ Pensamos em como seria a gameplay, colocamos as ideias na ponta do lápis e dese
 <hr>
 <img class="ui centered medium circular image" src="{{ site.baseurl }}/images/ice_cream_company-playstore.png">
 <div class="centered">
-Jogue Agora (Android): <a href="https://play.google.com/store/apps/details?id=com.cakeRoll.asaventurasdezaguinha"><i class="large github icon"></i>Jogar</a>
-<button class="buttonPlayNow"><a href="https://play.google.com/store/apps/details?id=com.cakeRoll.asaventurasdezaguinha"><i class="fab fa-google-play"></i> Jogar Agora</a></button>
+Disponivel (Android):
+<button class="buttonTeste"><a href="https://play.google.com/store/apps/details?id=com.cakeRoll.asaventurasdezaguinha"><i class="fab fa-google-play"></i> Jogar Agora</a></button>
 </div>
