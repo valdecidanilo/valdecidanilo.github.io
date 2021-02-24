@@ -46,10 +46,10 @@ Com os lucros o jogador poderá customizar o seu personagem e o seu carrinho de 
 <hr>
 
 <div>
-  Indisponível <i class="fas fa-times"></i> (Android):
+  Disponível <i class="fas fa-check"></i> (Android):
   <button>
-    <a href="">
-      <i class="fab fa-google-play"></i> Indisponível</a>
+    <a href="https://play.google.com/store/apps/details?id=com.cakeroll.icecreamcompany">
+      <i class="fab fa-google-play"></i> Jogar Agora</a>
   </button>
 </div>
 
